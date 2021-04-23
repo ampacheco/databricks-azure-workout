@@ -1,6 +1,6 @@
 # databricks-azure-workout
 
-## Videos to Follow
+## See the following videos
 
 1. :tv: [Part 1](https://vimeo.com/498164159/e6fddbceaa)
 
