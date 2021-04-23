@@ -2,10 +2,10 @@
 
 ## Videos to Follow
 
-:tv: [Part 1](https://databricks.com/p/thank-you/webinar-azure-databricks-1-part-training-series-139977)
+1.:tv: [Part 1](https://vimeo.com/498164159/e6fddbceaa)
 
-:tv: [Part 2](https://databricks.com/p/thank-you/webinar-azure-databricks-2-part-training-series-139977)
+1.:tv: [Part 2](https://vimeo.com/498165662/2c97583bc7)
 
-:tv: [Part 2](https://databricks.com/p/thank-you/webinar-azure-databricks-3-part-training-series-139977)
+1.:tv: [Part 3](https://vimeo.com/500179667/0538589a56)
 
 ## Notebooks
